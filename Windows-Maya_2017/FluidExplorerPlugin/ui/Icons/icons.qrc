@@ -1,0 +1,23 @@
+<RCC>
+	<qresource>
+ 
+		<file>icon_cam_perspective.png</file>
+		<file>icon_cam_vc.png</file>
+		<file>icon_cam_custom.png</file>
+        <file>icon_cam_rotation.png</file>
+		<file>checkbox.png</file>
+		<file>arrow_small_1.png</file>
+		<file>arrow_small_2.png</file>
+		<file>new_icon_orange.png</file>
+		<file>open_icon_orange.png</file>
+		<file>help_icon_orange.png</file>
+		<file>icon_fluidexplorer.png</file>
+		<file>icon_lock.png</file>
+		<file>icon_fluidexplorer_black.png</file>
+		<file>down_arrow.png</file>
+		<file>darkorange-stylesheet</file>
+		<file>favorites_off.png</file>
+		<file>favorites_on.png</file>
+
+     </qresource>
+</RCC>
