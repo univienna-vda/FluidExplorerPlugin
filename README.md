@@ -6,6 +6,8 @@ Commonly, graphic artists employ physically-based simulations for the generation
 Animation software packages usually provide dynamic simulators in order to create such visual effects. However, the task of finding the correct parameters 
 of the desired simulation is difficult and time-consuming, which often results in a cumbersome trial-and-error approach. 
 
+![alt text](http://fluidexplorer.cs.univie.ac.at/IMG/fxabout.png)
+
 Therefore, in order to overcome that 
 issue, Fluid Explorer supports artists in finding the correct fluid parameters of a particular vision. Based on a three-dimensional scene description, parameter 
 space sampling and spatial-temporal clustering techniques are applied in order to generate a concise overview of the achievable variations. A visualization system 
