@@ -15,5 +15,7 @@ allows artists to explorer the simulation space in a goal-oriented way. Visualiz
 
 Here are some helpful starting points for Fluid Explorer
 
-* [Website:](http://fluidexplorer.cs.univie.ac.at/) Website: Visit this page for further information. 
-* Installation: How to install Fluid Explorer.
+* [Website:](http://fluidexplorer.cs.univie.ac.at/) Visit this page for further information. 
+* [Installation:](http://fluidexplorer.cs.univie.ac.at/installation.php) How to install Fluid Explorer.
+* [Help section:](http://fluidexplorer.cs.univie.ac.at/helpsection.php) Discusses the main plugin components.
+* [Tutorial](http://fluidexplorer.cs.univie.ac.at/tutorial.php) Shows how the Fluid Explorer plugin can be applied for visual effects design
