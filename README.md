@@ -15,6 +15,10 @@ allows artists to explorer the simulation space in a goal-oriented way. Visualiz
 
 Here are some helpful starting points for Fluid Explorer
 
+* Website: Visit this page for more details. 
+* Installation: How to install Fluid Explorer.
+
+
 ## Other
 
 Additional content of the project can be found in the VDA owncloud: https://vdaowncloud.cs.univie.ac.at/
