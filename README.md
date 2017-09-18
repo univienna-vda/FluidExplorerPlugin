@@ -15,5 +15,5 @@ allows artists to explorer the simulation space in a goal-oriented way. Visualiz
 
 Here are some helpful starting points for Fluid Explorer
 
-* Website: Visit this page for more details. 
+* [Website:](http://fluidexplorer.cs.univie.ac.at/) Website: Visit this page for further information. 
 * Installation: How to install Fluid Explorer.
